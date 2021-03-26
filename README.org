@@ -1,2 +1,2 @@
 
-- The code in this repository produces [[https://joshobrien.github.io/Project-1100-map-BLM/][this map]].
+- The code in this repository produces [[https://joshobrien.github.io/Project-1100-map-USFS/][this map]].
